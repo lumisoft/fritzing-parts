@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" height="1.982641in" y="0in" gorn="0" width="1.0154926in" viewBox="0 0 1015.4926 1982.641" x="0in"  version="1.2" id="svg2">
+    <metadata  id="metadata62">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs60"/>
+    <desc  id="desc4">
+        <referenceFile >lolinD32pcb.svg</referenceFile>
+    </desc>
+    <g gorn="0.3"  id="silkscreen">
+        <line gorn="0.3.0" y2="5.6671906" stroke="#000000" x1="6.2415967" stroke-width="11.3343811"  fill="none" y1="5.6671906" x2="1006.2418" id="line10"/>
+        <line gorn="0.3.1" y2="1976.7354" stroke="#000000" x1="5.6671906" stroke-width="11.3343811"  fill="none" y1="8.2314739" x2="5.6671906" id="line4"/>
+        <line gorn="0.3.2" y2="1976.7354" stroke="#000000" x1="1009.8254" stroke-width="11.33438206"  fill="none" y1="8.2314529" x2="1009.8254" id="line3463"/>
+        <line gorn="0.3.3" y2="1976.9738" stroke="#000000" x1="6.2448773" stroke-width="11.3343811"  fill="none" y1="1976.9738" x2="1006.2449" id="line3465"/>
+    </g>
+    <g gorn="0.4"  id="copper1">
+        <g gorn="0.4.0"  id="copper0">
+            <circle cy="233.34573" gorn="0.4.0.0" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector0pin" cx="58.525978"/>
+            <circle cy="233.07375" gorn="0.4.0.1" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector32pin" cx="958.15833"/>
+            <circle cy="333.34576" gorn="0.4.0.2" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector1pin" cx="58.525978"/>
+            <circle cy="333.07376" gorn="0.4.0.3" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector31pin" cx="958.15833"/>
+            <circle cy="433.07376" gorn="0.4.0.4" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector2pin" cx="58.158268"/>
+            <circle cy="433.07376" gorn="0.4.0.5" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector30pin" cx="958.15833"/>
+            <circle cy="533.07373" gorn="0.4.0.6" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector3pin" cx="58.158268"/>
+            <circle cy="533.07373" gorn="0.4.0.7" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector29pin" cx="958.15833"/>
+            <circle cy="633.07373" gorn="0.4.0.8" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector4pin" cx="58.158268"/>
+            <circle cy="633.07373" gorn="0.4.0.9" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector27pin" cx="958.15833"/>
+            <circle cy="733.07373" gorn="0.4.0.10" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector5pin" cx="58.158268"/>
+            <circle cy="733.07373" gorn="0.4.0.11" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector26pin" cx="958.15833"/>
+            <circle cy="833.07373" gorn="0.4.0.12" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector6pin" cx="58.158268"/>
+            <circle cy="833.07373" gorn="0.4.0.13" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector25pin" cx="958.15833"/>
+            <circle cy="933.07373" gorn="0.4.0.14" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector7pin" cx="58.158268"/>
+            <circle cy="933.07373" gorn="0.4.0.15" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector24pin" cx="958.15833"/>
+            <circle cy="1033.0737" gorn="0.4.0.16" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector8pin" cx="58.158268"/>
+            <circle cy="1033.0737" gorn="0.4.0.17" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector23pin" cx="958.15833"/>
+            <circle cy="1133.0737" gorn="0.4.0.18" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector9pin" cx="58.158268"/>
+            <circle cy="1133.0737" gorn="0.4.0.19" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector22pin" cx="958.15833"/>
+            <circle cy="1233.0737" gorn="0.4.0.20" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector10pin" cx="58.158268"/>
+            <circle cy="1233.0737" gorn="0.4.0.21" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector21pin" cx="958.15833"/>
+            <circle cy="1333.0737" gorn="0.4.0.22" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector11pin" cx="58.158268"/>
+            <circle cy="1333.0737" gorn="0.4.0.23" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector20pin" cx="958.15833"/>
+            <circle cy="1433.0737" gorn="0.4.0.24" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector12pin" cx="58.158268"/>
+            <circle cy="1433.0737" gorn="0.4.0.25" r="29.000002" stroke="#ffbf00" stroke-width="20"  fill="none" id="connector19pin" cx="958.15833"/>
+            <circle cy="1533.0737" style="fill:none;stroke:#ffbf00;stroke-width:20" gorn="0.4.0.26" r="29.000002"  id="connector13pin" cx="58.158268"/>
+            <circle cy="1533.0737" style="fill:none;stroke:#ffbf00;stroke-width:20" gorn="0.4.0.27" r="29.000002"  id="connector18pin" cx="958.15833"/>
+            <circle cy="1633.0737" style="fill:none;stroke:#ffbf00;stroke-width:20" gorn="0.4.0.28" r="29.000002"  id="connector14pin" cx="58.158268"/>
+            <circle cy="1633.0737" style="fill:none;stroke:#ffbf00;stroke-width:20" gorn="0.4.0.29" r="29.000002"  id="connector17pin" cx="958.15833"/>
+            <circle cy="1733.0737" style="fill:none;stroke:#ffbf00;stroke-width:20" gorn="0.4.0.30" r="29.000002"  id="connector15pin" cx="58.158268"/>
+            <circle cy="1733.0737" style="fill:none;stroke:#ffbf00;stroke-width:20" gorn="0.4.0.31" r="29.000002"  id="connector16pin" cx="958.15833"/>
+            <rect height="58" y="204.64099" gorn="0.4.0.32" width="58.000004" stroke="#ffbf00" stroke-width="20" fill-opacity="1" x="30"  fill="none" id="rect134"/>
+        </g>
+    </g>
+</svg>
